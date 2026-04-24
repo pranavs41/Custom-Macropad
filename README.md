@@ -27,3 +27,4 @@ See `/photos` folder.
 
 ## Notes
 - The middle key in the bottom row is intentionally unmapped — reserved for future function.
+- Uploading code requires manually shorting GND and RST with a wire
